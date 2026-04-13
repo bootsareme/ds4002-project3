@@ -1,0 +1,114 @@
+[
+  {
+    "image": "Buttons",
+    "generated": "a comic strip strip strip strip strip strip strip strip strip strip strip strip strip strip strip strip strip strip strip",
+    "ground_truth": [
+      "flaming hot dorritos. flaming hot cheetos.",
+      "instagram reels. tiktok.",
+      "let the trolley kill 5 people. pull the lever so it kills one.",
+      "finish the current project. start the new idea you\u2019re more excited about.",
+      "use a simple model that explains most data. use a complex model that fits everything.",
+      "read the paper carefully. skim and hope it makes sense later.",
+      "work alone and fully control the project. work with others and coordinate everything.",
+      "chose a fun project that takes more time. chose an easy and simple project.",
+      "say yes to everything. protect your peace.",
+      "credit overload to graduate early. graduate in 4 years."
+    ]
+  },
+  {
+    "image": "Wolf",
+    "generated": "a dark forest with a man in the middle and a full moon in the background",
+    "ground_truth": [
+      "Human by chance, alpha by choice",
+      "take me already",
+      "hide your wife, the alpha is here",
+      "I'll protect you, kitten, no matter what",
+      "they don't understand",
+      "never underestimate the power of an alpha",
+      "i couldn't out pizza the hut",
+      "rare breed",
+      "now i'm REALLY angry",
+      "stay close, kitten, i'll keep the world at bay"
+    ]
+  },
+  {
+    "image": "Brain",
+    "generated": "a series of four images showing the different areas of the brain",
+    "ground_truth": [
+      "eating meat. being vegeterian. being vegan. letting animals eat you.",
+      "education edition. pocket edition. bedrock edition. java edition.",
+      "you're fired. your employment is terminated. you're jobn't. you're promoted to customer.",
+      "do the assignment early. do it last minute. copy someone else's. submit the wrong file.",
+      "use the debugger. add print statements. comment out half the code. pretend it works.",
+      "start studying a week before the exam. study the weekend before the exam. study the night before the exam. accept your fate.",
+      "use git branches. basic version control. chaotic commits. \u201cfinal_final_REAL2_this_one\u201d.",
+      "closely reading the whole paper. skimming the paper. reading only the introduction and results. reading just the abstract.",
+      "checking units while doing the problem. checking units on the last step. writing down whatever units should make sense. not using units.",
+      "take clear notes in class. write messy notes. take photos of the board. trust your memory."
+    ]
+  },
+  {
+    "image": "Gru",
+    "generated": "a series of six pictures of a man in a suit",
+    "ground_truth": [
+      "make them go to grade school for 12 years. then make them go to college for 12 years. Then don't give them jobs.",
+      "make a plan to stay organized this year. buy a planner and color coated pens. use it for 3 days and forget it exists.",
+      "turn to the dark side. use the power to save padme. kill padme.",
+      "open phone for duo push. check something else for a moment. doomscroll for an hour.",
+      "read lecture notes. take careful annotations. never open them again.",
+      "review for exam. plan to focus on weak topics. spend 80% of time on topics you already know",
+      "write thesis introduction. plan the methods section. abandon draft until it's due in a week.",
+      "write paper draft. revise carefully. delete everything and start over.",
+      "skip lecture to sleep in. plan to watch the recording later. never watch the recording.",
+      "join a bunch of clubs in first year. make a bunch of friends and be super involved. burn out halfway through college."
+    ]
+  },
+  {
+    "image": "Exit swerving",
+    "generated": "a blue car driving under a highway sign",
+    "ground_truth": [
+      "my to do list. scrolling on my phone",
+      "saying something serious. replying with a joke",
+      "new year, new me. new year, same me.",
+      "paying bills. sweet treat.",
+      "go to sleep. stay up late on my phone.",
+      "rerun the simulation again. pretend the error bars make sense.",
+      "find a healthy coping mechanism. make jokes about it.",
+      "start the assignment now. wait until the night it's due.",
+      "use the debugger. add more print statements.",
+      "go to lecture. watch the recording at 2x speed."
+    ]
+  },
+  {
+    "image": "Fence",
+    "generated": "a man in a suit and tie with his mouth open",
+    "ground_truth": [
+      "when you try to join the zoom meeting but the teacher doesn't let you in",
+      "trying to log into google. forgetting my security code",
+      "my adblocker. ads",
+      "trying to log into canvas. duo push.",
+      "when the paper is behind a paywall",
+      "trying to run code that worked last night",
+      "when it's 11:58 pm and canvas is taking forever to load",
+      "triyng to use face id with sunglasses on",
+      "trying to open a website. \u201cplease disable your adblocker\u201d",
+      "trying to reset your password. \u201cnew password cannot be the same as your old password\u201d"
+    ]
+  },
+  {
+    "image": "Spiderman",
+    "generated": "spider and spider in spider ' s lair",
+    "ground_truth": [
+      "2^2. 2*2",
+      "shortness of breath caused by anxiety. anxiety cause my shortness of breath",
+      "Captial. Capitol",
+      "polish flag. indonesian flag",
+      "phenyl. phenol",
+      "gaussian distribution. normal distribution.",
+      "correlation. causation.",
+      "summation. integral.",
+      "L'H\u00f4pital's rule. le hospital's rule.",
+      "x++. x += 1."
+    ]
+  }
+]

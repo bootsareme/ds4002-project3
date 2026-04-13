@@ -11,6 +11,7 @@ OUTPUT_PATH = "../OUTPUT/results.json"
 
 
 def load_model():
+    device = 'cpu'
     processor = BlipProcessor.from_pretrained(
         "Salesforce/blip-image-captioning-base"
     )
