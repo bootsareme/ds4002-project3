@@ -21,12 +21,19 @@ pip install torch torchvision transformers pandas pillow openpyxl
 │   └── meme compilation.xlsx
 ├── LICENSE
 ├── OUTPUT
+│   ├── all_similarity_scores.csv
+│   ├── avg_comparison.png
+│   ├── avg_scores_blip.png
+│   ├── avg_scores_blipv2.png
+│   ├── query_similarity_summary.csv
 │   ├── results_blip.csv
-│   └── results_blipv2.csv
+│   ├── results_blipv2.csv
+│   └── total_avg_comparison.png
 ├── README.md
 └── SCRIPTS
     ├── BLIP_caption_gen.py
     └── BLIPv2_caption_gen.py
+    └── SBERT_analysis.py
 ```
 
 ## Section 3: Instructions
