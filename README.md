@@ -25,6 +25,8 @@ pip install torch torchvision transformers pandas pillow openpyxl
 │   ├── avg_comparison.png
 │   ├── avg_scores_blip.png
 │   ├── avg_scores_blipv2.png
+│   ├── max_vs_mean_scatter.png
+│   ├── score_distribution.png
 │   ├── query_similarity_summary.csv
 │   ├── results_blip.csv
 │   ├── results_blipv2.csv
@@ -33,6 +35,7 @@ pip install torch torchvision transformers pandas pillow openpyxl
 └── SCRIPTS
     ├── BLIP_caption_gen.py
     └── BLIPv2_caption_gen.py
+    └── Additional_plots.py
     └── SBERT_analysis.py
 ```
 
