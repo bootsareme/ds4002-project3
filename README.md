@@ -9,7 +9,6 @@ pip install torch torchvision transformers pandas pillow openpyxl
 
 ## Section 2: A Map of our documentation
 ```
-.
 ├── DATA
 │   ├── Brain.png
 │   ├── Buttons.png
